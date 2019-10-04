@@ -1,0 +1,3 @@
+module.exports = {
+    GOOGLE_DIALOGFLOW_CLIENT_KEY:"2240ed2e12b84e229b740f35b895cbf1"
+}

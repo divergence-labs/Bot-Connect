@@ -1,0 +1,32 @@
+{
+  "name": "chatbotcompnent",
+  "version": "0.0.0",
+  "private": true,
+  "engines": {
+    "node": "8.11.1"
+  },
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "connect-history-api-fallback": "^1.5.0",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "multer": "^1.4.2",
+    "node-webhooks": "^1.4.2",
+    "nodemon": "^1.19.2"
+  },
+  "author": {
+    "name": "Anantha Murthy",
+    "email": "anantha.ramamurthy@marlabs.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anantha-marlabs/DIVA-Lobby.git"
+  }
+}
